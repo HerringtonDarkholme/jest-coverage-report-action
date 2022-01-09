@@ -1,4 +1,4 @@
-name: 'Jest coverage report'
+name: 'Jest coverage report with PNPM'
 description: 'Track your code coverage in each pull request.'
 author: 'Artiom Tretjakovas <artiom.tretjakovas2@gmail.com>'
 branding:
